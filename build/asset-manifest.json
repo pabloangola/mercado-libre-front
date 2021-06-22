@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65195338.chunk.css",
+    "main.js": "/static/js/main.00dd8d0c.chunk.js",
+    "main.js.map": "/static/js/main.00dd8d0c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27c9b85f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27c9b85f.js.map",
+    "static/js/2.b2715647.chunk.js": "/static/js/2.b2715647.chunk.js",
+    "static/js/2.b2715647.chunk.js.map": "/static/js/2.b2715647.chunk.js.map",
+    "static/js/3.3d17f758.chunk.js": "/static/js/3.3d17f758.chunk.js",
+    "static/js/3.3d17f758.chunk.js.map": "/static/js/3.3d17f758.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.65195338.chunk.css.map": "/static/css/main.65195338.chunk.css.map",
+    "static/js/2.b2715647.chunk.js.LICENSE.txt": "/static/js/2.b2715647.chunk.js.LICENSE.txt",
+    "static/media/404.a2be82f7.png": "/static/media/404.a2be82f7.png",
+    "static/media/alliance-logo.f9690a7a.png": "/static/media/alliance-logo.f9690a7a.png",
+    "static/media/index.css": "/static/media/background.033226b7.jpg",
+    "static/media/loading.4adf01f9.gif": "/static/media/loading.4adf01f9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c9b85f.js",
+    "static/js/2.b2715647.chunk.js",
+    "static/css/main.65195338.chunk.css",
+    "static/js/main.00dd8d0c.chunk.js"
+  ]
+}
